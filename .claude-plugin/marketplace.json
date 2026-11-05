@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "maxio-plugin-arms-ali",
+  "description": "The Maxio Advanced Billing context plugin as codegen-v2 eecee918 generates it (C# only, SDK bundled), unedited.",
+  "owner": { "name": "APIMatic" },
+  "plugins": [
+    { "name": "maxio-advanced-billing", "description": "The generated Maxio Advanced Billing context plugin at codegen-v2 eecee918: 9 dotnet skills, the Claude Code planner agent and the bundled C# SDK.", "source": "./plugins/maxio-advanced-billing", "category": "development" }
+  ]
+}
